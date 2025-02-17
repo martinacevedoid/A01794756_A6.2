@@ -1,0 +1,8 @@
+{
+    "H1": {
+        "hotel_id": "H1",
+        "name": "Luxury Inn",
+        "location": "New York",
+        "rooms_available": 4
+    }
+}

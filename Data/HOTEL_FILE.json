@@ -1,0 +1,25 @@
+{
+  "hotels": [
+    {
+      "hotel_id": 1,
+      "name": "Grand Plaza",
+      "location": "New York",
+      "rooms_available": 10,
+      "price_per_night": 150
+    },
+    {
+      "hotel_id": 2,
+      "name": "Coastal View",
+      "location": "California",
+      "rooms_available": 5,
+      "price_per_night": 200
+    },
+    {
+      "hotel_id": 3,
+      "name": "",
+      "location": "Guadalajara",
+      "rooms_available": 0,
+      "price_per_night": 2
+    }
+  ]
+}
